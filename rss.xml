@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[jb2]]></title>
+        <description><![CDATA[jb2]]></description>
+        <link>http://github.com/dylang/node-rss</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Mon, 02 May 2016 06:04:53 GMT</lastBuildDate>
+        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<p>JB2 : VALUE FOR BUSINESS ONLINE</p>]]></description>
+            <link>undefinedjb2-value-for-business-online/index.html</link>
+            <guid isPermaLink="false">c9430073-47d2-4ac9-9c44-4abb17bf215b</guid>
+            <pubDate>Mon, 02 May 2016 06:04:00 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
